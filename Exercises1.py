@@ -133,13 +133,13 @@
 #elif user == "not found" and len(credit_num) == 16:
 #    print("Sorry, user not found.")
 #else:
-#    print(f"Hi, {user}, welcome to DCBanks. "
-#          f"{remain_digits} **** **** ****. "
-#
-#          f"Here is your balance: {balance}")
+#    print(f"Hi, {user}, welcome to DCBanks. ")
+#    print(f"{remain_digits} **** **** ****. ")
+#    print()
+#    print(f"Here is your balance: {balance}")
 
 
-# Exam 2 hours accomplished YouTube tutorial
+# Exam 2 hours accomplished YouTube tutorial: create a user profiling application
 
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
@@ -203,3 +203,4 @@ print(f"Access level: {access_level}")
 print("================================")
 
 input("Do you want to create another profile? (Y/N) ")
+# last line is an open continuation to the next topic: while loops. I'll update next monday another two hours worth of exercises an forms

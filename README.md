@@ -1,1 +1,1 @@
-All these formulas can be extracted from Bro Code's 12 hour python course on YouTube. But I added a few exercises that I decided to create
+All these formulas can be extracted from Bro Code's 12 hour python course on YouTube. But I added a few exercises that I decided to create. I also wrote a bunch of notes here and there that are not in Bro code's video, so to help people understand each formula or exercise better. Thanks for visiting
